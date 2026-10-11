@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Praise Break</string>
+    <string name="accessibility_service_label">Praise Break</string>
+    <string name="accessibility_service_description">Praise Break notices which app is open so it can invite you to pause. It does not read what is on your screen.</string>
+</resources>
